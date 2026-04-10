@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 # Site Settings
-title                    : "Wendy"
-description              : "A junior student at Shanghai Jiao Tong University."
+title                    : "吴大小姐"
+description              : "上海交通大学"
 repository               : "wuch0527/wuch0527.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,7 +15,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Wendy"
+  name             : "吴大小姐"
   avatar           : "images/avatar.jpg"
   bio              : "Shanghai Jiao Tong University"
   location         : "China"
