@@ -1,14 +1,8 @@
 ---
 permalink: /
 title: 个人简介
-excerpt: 一个喜欢漂亮大姐姐、巧克力饼、动感超人的五岁小朋友
+excerpt: 
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-<span class='anchor' id='about-me'></span>
 
 吴晴雯 上海交通大学
 
