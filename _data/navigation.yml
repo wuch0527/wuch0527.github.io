@@ -1,5 +1,7 @@
 # main links links
 main:
+  - name: "首页"  # 把 Homepage 改成 首页
+    url: /
   - title: "关于我"
     url: "/#about-me"
 
