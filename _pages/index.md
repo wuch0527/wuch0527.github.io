@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: 个人简介
-excerpt: 
+title: 野原新之助
+excerpt: 一个喜欢漂亮大姐姐、巧克力饼、动感超人的五岁小朋友
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<span class='anchor' id='about-me'></span>
 
 吴晴雯 上海交通大学
-
-
 
 我是上海交通大学日语专业大三学生，始终以严谨的态度对待专业学习，扎实掌握日语语言基础与文化知识，具备较强的日语综合应用能力。在校期间，系统学习日语精读、泛读、听力、口语、写作、翻译等核心课程，成绩优异，始终保持专业前列，注重培养自身的跨文化沟通能力和语言实践能力。
 
